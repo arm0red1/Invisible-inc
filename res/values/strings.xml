@@ -5,5 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="your_notes">Your notes.</string>
     <string name="city_comma_store">City, Store</string>
+    <string name="addNotePad">Add NotePadd</string>
 
 </resources>
